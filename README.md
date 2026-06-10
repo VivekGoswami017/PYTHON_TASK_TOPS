@@ -1,7 +1,7 @@
 # task-1-python
 
 **Task 1:
-Install Anaconda on your system and launch Jupyter Notebook from the Anaconda Navigator
+Install Anaconda on your system and launch Jupyter Notebook from the Anaconda Navigator.
 
 Screenshot:
 
@@ -9,12 +9,12 @@ Screenshot:
 
 
 **Task 2:
-Create a new Jupyter Notebook file named insta_intro.ipynb and write a cell that prints your name and your favorite app
+Create a new Jupyter Notebook file named insta_intro.ipynb and write a cell that prints your name and your favorite app(like instagram or zomato) using the print() function.
 
 print("My Name is Vivek Goswami")
 print("My Favorite App is Instagram")
 
-**Task 3
+**Task 3: In jupyter notebook, add a new cell and write python code 
 Print the message:
 print("Welcome to Data Science with Python!")
 
@@ -24,8 +24,7 @@ Screenshot:
 
 
 **Task 4
-Create a Python script file called hello_app.py.
-print("Hello from .py file!")
+Create a Python script file called hello_app.py (not a notebook) that prints 'Hello from .py file!' when run from the terminal.<br><br><em><strong>Hint:</strong> Use a text editor like VS Code or Notepad to create the file, then run it using the command: python hello_app.py
 
 Screenshot:
 
