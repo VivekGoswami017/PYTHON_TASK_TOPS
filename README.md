@@ -18,6 +18,10 @@ print("My Favorite App is Instagram")
 Print the message:
 print("Welcome to Data Science with Python!")
 
+Anaconda Link:
+
+https://anaconda.com/app/share/notebooks/a9af0f96-478d-4caf-8653-cc3a698c2185/overview
+
 Screenshot:
 
 <img width="1907" height="838" alt="Screenshot 2026-06-10 103741" src="https://github.com/user-attachments/assets/ca4ca63a-33ba-4282-bb7e-2f16053fea12" />
