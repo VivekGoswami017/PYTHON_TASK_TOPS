@@ -1,4 +1,4 @@
-# task-1-python
+# Python_Task1
 
 **Task 1:
 Install Anaconda on your system and launch Jupyter Notebook from the Anaconda Navigator.
